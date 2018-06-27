@@ -3,6 +3,8 @@ Utils for similarity computation
 
 @author: v-xiaodg
 '''
+import numpy as np
+
 
 def cos_np(data1,data2):
     """numpy implementation of cosine similarity for matrix"""
